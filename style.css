@@ -1,0 +1,13 @@
+body {
+    background: #000000;
+    color: #2CB500;
+    font-family: monospace;
+    font-size: 24px;
+    line-height: 6px;
+}
+
+.fox {
+    position: absolute;                  
+    bottom: 40px;                          
+    right: 0;
+}

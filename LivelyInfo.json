@@ -1,0 +1,14 @@
+{
+    "AppVersion": "1.0",
+    "Title": "Console",
+    "Thumbnail": "screenshot.png",
+    "Preview": "preview.gif",
+    "Desc": "Minimalistic live wallpaper in the style of the console",
+    "Author": "Belyanchik",
+    "License": "",
+    "Contact": "https://github.com/Belyanchik/",
+    "Type": 1,
+    "FileName": "index.html",
+    "Arguments": "--system-information",
+    "IsAbsolutePath": false
+}
