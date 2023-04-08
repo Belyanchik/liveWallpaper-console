@@ -7,5 +7,5 @@
 If you really liked the wallpaper and you decided to install it, then follow the instructions below, you can do it.
 
 1. Open [this](https://github.com/rocksdanister/lively) page, familiarize yourself with the options for installing Lively Wallpaper and install it in any way convenient for you.
-2. Download it'.zip` archive at [this](https://github.com/Belyanchik/liveWallpaper-console/releases/download/download_this/liveWallpaper_Console.zip) link
+2. Download it' `.zip` archive at [this](https://github.com/Belyanchik/liveWallpaper-console/releases/download/download_this/liveWallpaper_Console.zip) link
 3. Click `Add Wallpapers` and drag the archive to the area that appears
